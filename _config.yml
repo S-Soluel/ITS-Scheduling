@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: DU ITS Scheduling Project
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website serves as a way to learn more about the Drake University ITS Scheduling Project
   that is currently being managed by several student leads on campus. This project has been
